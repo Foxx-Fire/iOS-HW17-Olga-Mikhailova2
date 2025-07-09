@@ -1,10 +1,13 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+final class ViewController: UIViewController {
+  
   // MARK: - Properties
   
   private lazy var backgroundView = LoginBackgroundView()
+  
+  // MARK: - UIElements
   
   private lazy var titleLabel: UILabel = {
     let label = UILabel()
