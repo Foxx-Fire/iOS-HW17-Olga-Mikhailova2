@@ -1,5 +1,0 @@
---indent 4
---wraparguments after-first
---wrapcollections before-first
---disable redundantSelf
---exclude Pods,DerivedData
